@@ -2,7 +2,7 @@
 .menu{
     list-style: none;
     padding: 10px;
-    background-image:url("IMAGENES/GRIS\ 2.jpeg");
+    background-image:url("IMAGENES/GRIS\ 2.jpg");
     background-repeat: no-repeat;
     background-size:cover;
     width : 100%;
@@ -31,7 +31,7 @@
 
   body {
     font-family:gothic;
-    background-image:url("IMAGENES/GRIS\ 2.jpeg");
+    background-image:url("IMAGENES/GRIS\ 2.jpg");
     background-repeat: no-repeat;
     background-size:cover;
     color: orange;
